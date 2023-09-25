@@ -1,6 +1,8 @@
 # Code_C
 Những chương trình ngôn ngữ C do chính Mai Quốc Đại coding
 ____________________________________________________________
+Giải phương trình bậc 2...
+	___	___	___
 #include <stdio.h>
 #include <math.h>
 main (){
