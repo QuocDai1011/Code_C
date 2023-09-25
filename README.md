@@ -1,5 +1,5 @@
 # Code_C
-Những chương trình ngôn ngữ C do chính Mai Quốc Đại coding
+Những chương trình bằng ngôn ngữ C
 ____________________________________________________________
 Giải phương trình bậc 2...
 	___	___	___
